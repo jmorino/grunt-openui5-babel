@@ -1,0 +1,38 @@
+{
+  "name": "grunt-openui5-babel",
+  "description": "Grunt plugin to transpile UI5 sources with Babel",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jmorino/grunt-openui5-babel",
+  "author": {
+    "name": "Jérome Morino",
+    "email": "jerome.morino@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmorino/grunt-openui5-babel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmorino/grunt-openui5-babel/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jmorino/grunt-openui5-babel/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": "8.0.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
