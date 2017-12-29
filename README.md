@@ -1,5 +1,9 @@
-# grunt-openui5-babel
+> # DEPRECATED
+>
+> This plugin has been created to work around [this bug](https://github.com/r-murphy/babel-plugin-transform-modules-ui5/issues/1). This bug has been fixed with version [6.16.1](https://github.com/r-murphy/babel-plugin-transform-modules-ui5/tree/e60d574210b11e7ec99209f8e4e39d876f803032). Then, this Grunt plugin becomes obsolete: consider using [the official grunt-babel plugin](https://github.com/babel/grunt-babel) instead.
 
+
+# grunt-openui5-babel
 > Grunt plugin to transpile UI5 sources with Babel
 
 **_WARNING:_ This is an EXPERIMENTAL Grunt plugin. Use at your own risks!**
