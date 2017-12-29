@@ -23,18 +23,13 @@
   "engines": {
     "node": "8.0.0"
   },
-  "scripts": {
-    "test": "grunt test"
-  },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.9.2",
     "grunt-contrib-clean": "^0.5.0",
     "grunt-contrib-nodeunit": "^0.3.3",
     "grunt": "~0.4.5"
   },
-  "keywords": [
-    "gruntplugin"
-  ],
+  "keywords": ["gruntplugin","openui5","ui5","babel"],
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-plugin-syntax-class-properties": "^6.13.0",
